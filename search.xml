@@ -132,6 +132,12 @@
     
     <entry>
       <title></title>
+      <url>http://edscc.me/archieves/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title></title>
       <url>http://edscc.me/cg/index.html</url>
       <content type="html"></content>
     </entry>
@@ -144,18 +150,6 @@
     
     <entry>
       <title></title>
-      <url>http://edscc.me/archieves/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>http://edscc.me/guide/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title></title>
       <url>http://edscc.me/galnetnews/index.html</url>
       <content type="html"></content>
     </entry>
@@ -163,6 +157,12 @@
     <entry>
       <title></title>
       <url>http://edscc.me/officialannounce/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://edscc.me/guide/index.html</url>
       <content type="html"></content>
     </entry>
     
