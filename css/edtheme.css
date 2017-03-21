@@ -41,6 +41,11 @@
   z-index: 12;
 }
 
+.inverted.label
+{
+  color: white;
+}
+
 /* 背景 */
 
 #background-container

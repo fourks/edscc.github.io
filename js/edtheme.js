@@ -12,4 +12,15 @@ $(document)
         $('.ui.sidebar')
         .sidebar('attach events', '.toc.item')
       ;
+      $('#todo-progress')
+        .progress('set percent', 8/30*100)
+      ;
+      $('#todo-progress')
+      .progress({
+        label: 'ratio',
+        text: {
+          ratio: '{percent}%'
+        }
+      })
+      ;
   });
